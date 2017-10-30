@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>P6GDVV24N5.com.haik.YouTube</string>
+	<string>F447M6WH8A.com.dani.testAzure</string>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>P6GDVV24N5.com.haik.YouTube</string>
+		<string>F447M6WH8A.com.dani.testAzure</string>
 	</array>
 </dict>
 </plist>

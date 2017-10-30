@@ -195,10 +195,11 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0800;
 				LastUpgradeCheck = 0900;
-				ORGANIZATIONNAME = "Haik Aslanyan";
+				ORGANIZATIONNAME = "Dani Test";
 				TargetAttributes = {
 					22AA44621D1302FB00CA6185 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = F447M6WH8A;
 						DevelopmentTeamName = "Haik Aslanyan (Personal Team)";
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
@@ -431,7 +432,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: haik@mexonis.com (GZ4E237K2F)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = F447M6WH8A;
 				INFOPLIST_FILE = YouTube/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.dani.testAzure;
@@ -452,7 +453,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: haik@mexonis.com (GZ4E237K2F)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = F447M6WH8A;
 				INFOPLIST_FILE = YouTube/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.dani.testAzure;
