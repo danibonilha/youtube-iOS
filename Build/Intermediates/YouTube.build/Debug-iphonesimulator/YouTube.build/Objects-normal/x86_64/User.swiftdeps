@@ -1,0 +1,260 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "User"
+- "Playlist"
+provides-nominal:
+- "7YouTube4UserC"
+- "7YouTube8PlaylistV"
+provides-member:
+- ["7YouTube4UserC", ""]
+- ["7YouTube8PlaylistV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Array"
+- "AssignmentPrecedence"
+- !private "Dictionary"
+- "Int"
+- "Playlist"
+- "String"
+- !private "StringLiteralType"
+- "UIImage"
+- "User"
+- "Void"
+- !private "arc4random_uniform"
+depends-member:
+- !private ["Sa", "append"]
+- ["Sa", "init"]
+- !private ["s23BidirectionalCollectionP", "append"]
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["s13BinaryIntegerP", "init"]
+- !private ["s7CVarArgP", "append"]
+- ["s7CVarArgP", "init"]
+- !private ["s10CollectionP", "append"]
+- ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "append"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s9DecodableP", "append"]
+- ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "append"]
+- ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["s8HashableP", "init"]
+- !private ["Si", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s17MutableCollectionP", "append"]
+- ["s17MutableCollectionP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["s7NumericP", "init"]
+- ["7YouTube8PlaylistV", "Int"]
+- ["7YouTube8PlaylistV", "String"]
+- ["7YouTube8PlaylistV", "UIImage"]
+- ["7YouTube8PlaylistV", "init"]
+- ["7YouTube8PlaylistV", "numberOfVideos"]
+- ["7YouTube8PlaylistV", "pic"]
+- ["7YouTube8PlaylistV", "title"]
+- !private ["s22RandomAccessCollectionP", "append"]
+- ["s22RandomAccessCollectionP", "init"]
+- !private ["s26RangeReplaceableCollectionP", "append"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s8SequenceP", "append"]
+- ["s8SequenceP", "init"]
+- !private ["s13SignedIntegerP", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["s10StrideableP", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So7UIImageC", "init"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "init"]
+- ["7YouTube4UserC", "Array"]
+- !private ["7YouTube4UserC", "Int"]
+- ["7YouTube4UserC", "Playlist"]
+- ["7YouTube4UserC", "String"]
+- ["7YouTube4UserC", "UIImage"]
+- ["7YouTube4UserC", "User"]
+- ["7YouTube4UserC", "Void"]
+- !private ["7YouTube4UserC", "arc4random_uniform"]
+- ["7YouTube4UserC", "backgroundImage"]
+- ["7YouTube4UserC", "deinit"]
+- ["7YouTube4UserC", "fetchData"]
+- ["7YouTube4UserC", "init"]
+- ["7YouTube4UserC", "name"]
+- ["7YouTube4UserC", "playlists"]
+- ["7YouTube4UserC", "profilePic"]
+- !private ["s14_ArrayProtocolP", "append"]
+- ["s14_ArrayProtocolP", "init"]
+- !private ["s23_BidirectionalIndexableP", "append"]
+- ["s23_BidirectionalIndexableP", "init"]
+- !private ["s18_BitwiseOperationsP", "init"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- ["s24_DestructorSafeContainerP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s26_ExpressibleByImageLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "append"]
+- ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "append"]
+- ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["s17_MutableIndexableP", "append"]
+- ["s17_MutableIndexableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s22_RandomAccessIndexableP", "append"]
+- ["s22_RandomAccessIndexableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "append"]
+- ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s11_StrideableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "Sa"
+- "s23BidirectionalCollectionP"
+- !private "s13BinaryIntegerP"
+- "s7CVarArgP"
+- "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "s9EncodableP"
+- !private "s9EquatableP"
+- "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- !private "s8HashableP"
+- !private "Si"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "s17MutableCollectionP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s7NumericP"
+- "7YouTube8PlaylistV"
+- "s22RandomAccessCollectionP"
+- "s26RangeReplaceableCollectionP"
+- "s8SequenceP"
+- !private "s13SignedIntegerP"
+- !private "s13SignedNumericP"
+- !private "s10StrideableP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So7UIImageC"
+- !private "So39UIItemProviderPresentationSizeProvidingP"
+- "7YouTube4UserC"
+- "s14_ArrayProtocolP"
+- "s23_BidirectionalIndexableP"
+- !private "s18_BitwiseOperationsP"
+- "s24_DestructorSafeContainerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s26_ExpressibleByImageLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- "s17_MutableIndexableP"
+- "s21_ObjectiveCBridgeableP"
+- "s22_RandomAccessIndexableP"
+- "s26_RangeReplaceableIndexableP"
+- !private "s11_StrideableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenter.framework/Headers/MSDevice.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenterDistribute.framework/Headers/MSService.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenter.framework/Headers/MSService.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenterAnalytics.framework/Headers/MSService.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenterCrashes.framework/Headers/MSService.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenterDistribute.framework/Headers/MSDistributeDelegate.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenterCrashes.framework/Headers/MSCrashesDelegate.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenterDistribute.framework/Headers/MSDistribute.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenterDistribute.framework/Headers/MobileCenterDistribute.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenter.framework/Headers/MSAbstractLog.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenterCrashes.framework/Headers/MSAbstractLog.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenterCrashes.framework/Headers/MSErrorAttachmentLog.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenter.framework/Headers/MSWrapperSdk.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenter.framework/Headers/MobileCenter.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenter.framework/Headers/MSMobileCenter.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenterAnalytics.framework/Headers/MSAnalytics.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenterAnalytics.framework/Headers/MobileCenterAnalytics.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenterCrashes.framework/Headers/MSCrashes.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenterCrashes.framework/Headers/MobileCenterCrashes.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenter.framework/Headers/MSLogWithProperties.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenter.framework/Headers/MSCustomProperties.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenterDistribute.framework/Headers/MSReleaseDetails.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenter.framework/Headers/MSMobileCenterErrors.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenter.framework/Headers/MSConstants.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenterDistribute.framework/Headers/MSServiceAbstract.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenter.framework/Headers/MSServiceAbstract.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenterAnalytics.framework/Headers/MSServiceAbstract.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenterCrashes.framework/Headers/MSServiceAbstract.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenterCrashes.framework/Headers/MSErrorReport.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenterCrashes.framework/Headers/MSErrorAttachmentLog+Utility.h"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenterDistribute.framework/Modules/module.modulemap"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenter.framework/Modules/module.modulemap"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenterAnalytics.framework/Modules/module.modulemap"
+- "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/Pods/MobileCenter/MobileCenter-SDK-iOS/MobileCenterCrashes.framework/Modules/module.modulemap"
+interface-hash: "545f52be55302fbb5f4bca1b75fd17b6"

@@ -1,0 +1,18 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65.2 clang-900.0.37)"
+options: "47f75407f46a99e84d585c6043de0f09"
+build_time: [1509398712, 731579000]
+inputs:
+  "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/YouTube/Model/User.swift": [1509398246, 0]
+  "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/YouTube/ViewControllers/SubscriptionsVC.swift": [1509398246, 0]
+  "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/YouTube/ViewControllers/HomeVC.swift": [1509398246, 0]
+  "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/YouTube/Supporting views/PlayerView.swift": [1509398246, 0]
+  "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/YouTube/AppDelegate.swift": [1509398483, 0]
+  "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/YouTube/Supporting views/SearchView.swift": [1509398246, 0]
+  "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/YouTube/Extensions/extensions.swift": [1509398246, 0]
+  "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/YouTube/Model/Video.swift": [1509398246, 0]
+  "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/YouTube/Supporting views/SettingsView.swift": [1509398246, 0]
+  "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/YouTube/ViewControllers/NavVC.swift": [1509398246, 0]
+  "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/YouTube/ViewControllers/MainVC.swift": [1509398246, 0]
+  "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/YouTube/ViewControllers/AccountVC.swift": [1509398246, 0]
+  "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/YouTube/Supporting views/TabBarView.swift": [1509398246, 0]
+  "/Users/daniele.bonilha/mob/Quick-Chat/youtube-iOS/YouTube/ViewControllers/TrendingVC.swift": [1509398246, 0]

@@ -21,6 +21,10 @@
 //  SOFTWARE.
 
 import UIKit
+import MobileCenter
+import MobileCenterAnalytics
+import MobileCenterCrashes
+import MobileCenterDistribute
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -28,6 +32,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+        
+        MSMobileCenter.start("c5edb186-b100-4b97-8d83-602392a97566", withServices:[
+            MSAnalytics.self,
+            MSCrashes.self,
+            MSDistribute.self
+            ])
         return true
     }
 }
